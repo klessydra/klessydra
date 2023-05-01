@@ -2,4 +2,4 @@
 
 ### Welcome to Klessydra 👋
 
-<img style="float: right;" src="/res/Klessydra_timeline.png.png" width="400">
+<img style="float: right;" src="/res/Klessydra_timeline.png" width="900">
