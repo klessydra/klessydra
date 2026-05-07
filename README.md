@@ -4,7 +4,7 @@
 Klessydra is a family of RISC-V processing cores and accelerators developed at the Digital Systems Lab at Sapienza University of Rome.
 Klessydra since its begnning has evolved a great deal, and continues to evolve at an accelerated pace.
 
-<img style="float: right;" src="/res/Klessydra_Evolution_Timeline.png" width="900">
+<img style="float: right;" src="/res/Klessydra_Timeline_Evolution.png" width="900">
 
 Some of our works:
 - [The Microarchitecture of a Multi-threaded RISC-V Compliant Processing Core Family for IoT End-Nodes](https://link.springer.com/chapter/10.1007/978-3-319-93082-4_12)
